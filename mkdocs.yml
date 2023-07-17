@@ -27,6 +27,18 @@ theme:
       primary: teal
       accent: lime
 
+plugins:
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://Smart-Docx.com
+    - icon: fontawesome/brands/twitter
+      link: https://Smart-Docx.com
+    - icon: fontawesome/brands/linkedin
+      link: https://Smart-Docx.com
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
